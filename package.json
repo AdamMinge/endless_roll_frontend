@@ -1,0 +1,12 @@
+{
+  "name": "endless_roll_frontend",
+  "version": "0.1.0",
+  "description": "Frontend for Endless Roll TTRPG platform",
+  "private": true,
+  "scripts": {
+    "build": "trunk build --release",
+    "dev": "trunk serve",
+    "watch": "trunk watch"
+  },
+  "devDependencies": {}
+}
